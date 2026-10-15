@@ -1,0 +1,16 @@
+# Binaries and executables
+dayfinder
+main
+*.out
+*.exe
+*.o
+
+# Build artifacts
+build/
+bin/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+tempCodeRunnerFile.*
